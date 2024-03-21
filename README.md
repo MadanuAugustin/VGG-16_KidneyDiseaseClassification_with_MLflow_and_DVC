@@ -15,3 +15,4 @@
 8. Update the main.py
 <!-- dvc.yaml tracks the pipeline -->
 9. Update the dvc.yaml
+![1_ZqkQYVB3_Gw0hjrAMzi6_A](https://github.com/MadanuAugustin/VGG-16_KidneyDiseaseClassification_with_MLflow_and_DVC/assets/119403639/b42ae3e5-d1ea-4d04-b6ad-1cd05c9f6060)
